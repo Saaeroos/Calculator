@@ -1,0 +1,75 @@
+body{
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  color: #605858;
+}
+#container{
+    margin: 0 auto;
+    padding: 10px;
+    background: linear-gradient(#605858, #EBEAEA);
+    width: 500px;
+}
+
+#result{
+  width: 453px;
+  height: 150px;
+  background-color: #BBBBA0;
+  background: linear-gradient(90deg, #605858 50%, #AD2626 50%);
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+#screen{
+  height: 100px;
+  width: 365px;
+  margin: auto;
+  background-color: white;
+  font-size: 40px;
+  font-style: italic;
+}
+#numbers{
+  width: 350px;
+  height: 400px;
+  padding: 20px;
+  background-color: red;
+  background: linear-gradient(#605858, #F2F2F2);
+  display: inline-block;
+  vertical-align: top;
+}
+
+#operators{
+  width: 100px;
+  height: 400px;
+  background-color: blue;
+  display: inline-block;
+  background: linear-gradient(#AD2626, #F4D4D4);
+}
+
+
+#numbers .button{
+    font-size: 30px;
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+    border-top:black 4px solid;
+
+}
+
+#operators .button{
+    font-size: 25px;
+    display: inline-block;
+    height: 55px;
+    width: 70px;
+    margin: 5px;
+    border-top:black 4px solid;
+
+}
+
+#numbers .zero{
+  width: 175px;
+}
