@@ -1,6 +1,6 @@
 # Calculator
-This project was build by me during the guide period in Restart Network
-This caluculator do basic arithmetic operation on numbers
+This project was build by me during the guide period in Restart Network.  
+This caluculator do basic arithmetic operation on numbers.
 
 ### extra features are:
 * You cant but 2 operators after each other.
