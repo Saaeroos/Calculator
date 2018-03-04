@@ -1,14 +1,18 @@
 # Calculator
+This project was build by me during the guide period in Restart Network
 This caluculator do basic arithmetic operation on numbers
 
-it has some extra features which are:
-
-1_ You cant but 2 operators after each other.
-
-2_ you cant but 2 dots after each other.
-
+### extra features are:
+* You cant but 2 operators after each other.
+* you cant but 2 dots after each other.  
 these features decrease the chances of making incorrect equations.
 
-link below:
 
+### Technologies Used build this project: 
+* javascript
+
+### This project was deployed using: 
+* heroku
+
+### link for deployed app below:
 https://calculator007.herokuapp.com/
