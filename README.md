@@ -15,4 +15,4 @@ these features decrease the chances of making incorrect equations.
 * heroku
 
 ### link for deployed app below:
-https://codepen.io/Neo--/pen/KKKQRVV
+https://calculator007.herokuapp.com/
